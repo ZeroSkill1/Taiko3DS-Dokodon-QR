@@ -3,13 +3,17 @@
 Does what it says on the tin. Provides all QR codes to be scanned in the settings menu of Taiko No Tatsujin: Dokodon! Mystery Adventure on the Nintendo 3DS.
 
 # Known items in game
-QRs 1-40: RPG units
+QRs [1](#qr-code-1)-[40](#qr-code-40): Characters (RPG Units)
 
-QRs 40-50: Costumes
+QRs [41](#qr-code-41)-[50](#qr-code-50): Costumes
 
-QRs 50-58: Cards
+QRs [51](#qr-code-51)-[56](#qr-code-56): Cards
 
-QRs 59: Another troop
+QRs [57](#qr-code-57): Character
+
+QRs [58](#qr-code-58): Song
+
+
 
 # QR Code #1
 QR ID: QRCODE_001
