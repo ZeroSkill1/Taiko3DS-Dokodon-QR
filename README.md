@@ -5,11 +5,13 @@ Does what it says on the tin. Provides all QR codes to be scanned in the setting
 # Known items in game
 QRs 1-40: RPG units
 
-QRs 40-50: Costumes
+QRs 41-50: Costumes
 
-QRs 50-58: Cards
+QRs 51-56: Cards
 
-QRs 59: Another troop
+QRs 57: RPG unit
+
+QRs 58: Song
 
 # QR Code #1
 QR ID: QRCODE_001
