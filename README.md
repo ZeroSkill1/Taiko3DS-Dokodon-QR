@@ -9,9 +9,9 @@ QRs [41](#qr-code-41)-[50](#qr-code-50): Costumes
 
 QRs [51](#qr-code-51)-[56](#qr-code-56): Cards
 
-QRs [57](#qr-code-57): Character
+QR [57](#qr-code-57): Character
 
-QRs [58](#qr-code-58): Song
+QR [58](#qr-code-58): Song
 
 
 
